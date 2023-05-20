@@ -1,0 +1,12 @@
+1st page: status of heart disease in world and india
+2nd page : unfortunate deaths due to heart disease (celebrities)
+3rd page:need of heart disease model
+4th page: dataset used
+5th page:- algorithms used in the project
+6th page:- logistic regression
+7th page:-random  forest 
+8th page:- neural network
+9th page:- svm
+10th page:- now to discuss which model is best suitable
+11th page:- algorithm used in our project
+12th page:- thanks
